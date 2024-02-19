@@ -58,33 +58,6 @@ public class Ship extends MovingThing
 			return false;
 		}
 	}
-
-  // public int gg(List<Ammo> alienShotss)
-  // {
-  //   int xx = 0;
-  //   if(OuterSpace.health > 0)
-  //   {
-  //     for(int i = 0; i < alienShotss.size(); i++)
-  //     {
-  //       if(alienShotss.size() > 0)
-  //       {
-  //         for(int j = 0; j < alienShotss.size(); j++)
-  //         {
-  //           if(alienShotss.get(j).didCollide(OuterSpace.ship))
-  //             {
-  // 							// OuterSpace.health--;
-  //               xx++;
-  // 							// i = 0;
-  // 							return xx;
-  //             }
-  //         }
-  //       }
-  //     }
-  //   }
-  //   return 0;
-  // }
-  
-
   
   public void setHealth()
   {
