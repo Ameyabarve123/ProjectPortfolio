@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<title>XHTML Template Example - Intro ITWS</title>
+
+	<style type="text/css">
+		html {
+			width: 99%;
+			overflow-y: scroll;
+		}
+
+		a{
+			color: #000080;
+		}
+
+		body {
+			width: 100%;
+			margin-top: 0.01em;
+			font-family: Cambria, "Times New Roman", Times, serif;
+			overflow: hidden;
+			background-color: #FFF5EE;
+		}
+
+		h1 {
+			text-align: center;
+			font-size: 2.8em;
+			margin: 0;
+			padding: 0;
+			font-variant: small-caps;
+    	}
+		
+		h2 {
+			float: left;
+			clear: left;
+			width: 100%;
+			margin: 2px 0 2px 0;
+			padding: 0;
+			font-size: 1.3em;
+			border-style: solid;
+			border-width: 0em 0em 0.18em 0em;
+    }
+
+		h4{
+			font-size: 1.25em;
+			margin: 0 0 0 0;
+			padding-left: 0em;
+			width:79%;
+			display: inline-block;
+		}
+
+		h5{
+			margin: 0.05em;
+			font-style: italic;
+    }
+
+		li{
+			font-size: 0.85em;
+		}
+
+		.leader {
+			color: blue;
+    }  
+
+		.flexContainer{
+			display:flex;
+			flex-direction: column;
+		}
+
+		.flexContainer div{
+			padding:5px;
+		}
+		
+		.moveRight{
+			display:inline-block;
+			clear:right;
+			width: 20%;
+			margin: 0em;
+			text-align: right;
+			font-weight: normal;
+			font-size: 1em;
+		}
+
+		.moveRightDate{
+			display:inline-block;
+			clear:right;
+			width: 20%;
+			margin: 0em;
+			text-align: right;
+			font-weight: normal;
+			font-size: 0.83em;
+		}	
+
+		.changeWidth{
+			display: inline-block;
+			width: 79%;
+		}
+
+		.jobs{
+			display: flex;
+			flex-direction: column;
+			margin: 0em;
+		}
+
+		.noTopPadding{
+			padding-top: 0em;
+		}
+
+		#contactInfo {
+			padding: 4px 0 4px 0;
+			margin: 0;
+			text-align: center;
+			font-size: 1.1em;
+			white-space: nowrap;
+    }
+
+		#contactInfo li {
+			list-style: none;
+			margin: 0 0.25em 0 0.25em;
+		}
+
+		#noBottomPadding{
+			padding-bottom: 0em;
+		}
+
+
+	</style>
+</head>
+
+<body>
+	<h1>Ameya Barve</h1>
+	<ul id="contactInfo">
+		<li>(661)-607-3420 | San Diego, CA | barveameya@yahoo.com | <a 
+			href="https://www.linkedin.com/in/ameyabarve1">Linkedin</a>
+			| <a href="https://github.com/Ameyabarve123/Project-Portfolio.git">Github</a></li>
+	</ul>
+
+	<div class="flexContainer">
+		<div id="noBottomPadding">
+			<h2>Profile</h2>
+			<h4>Skills & Interests</h4>
+        	<ul class="jobs">
+            	<li><b>Programming Languages:</b> C++, Python, Javascript, Java, HTML/CSS/JS.</li>
+            	<li><b>Developer Tools:</b> Git/Github</li>
+            	<li><b>Interests:</b> Web Dev, Software Engineering</li>
+        	</ul>
+		</div>
+	
+		<div class="noTopPadding">
+			<h2>Education</h2>
+			<h4>Rensselaer Polytechnic Institue (RPI)</h4>
+			<h5 class="moveRight"><b>Troy, NY</b></h5>
+			<h5 class="changeWidth">B.S. Computer Science (CSCI) & Information Technology & Web Science (ITWS)</h5>
+			<h5 class="moveRightDate">August 2023 – May 2027</h5>
+			<ul class="jobs">
+				<li>Relevant Courses: Data Structures, Intro to ITWS, IT & Society, Rensselaer 
+					Center for Open Source (RCOS).</li>
+				<li>Clubs: HackRPI.</li>
+			</ul>
+			<h4>Canyon Crest Academy (CCA)</h4>
+			<h5 class="moveRight"><b>San Diego, CA</b></h5>
+			<h5 class="changeWidth">High School</h5>
+			<h5 class="moveRightDate">August 2019 – May 2023</h5>
+			<ul class="jobs">
+				<li>Relevant Courses: AP Computer Science, AP Computer Science Principles, AP Calculus,
+					AP Statistics.</li>
+			</ul>
+		</div>
+
+		<div class="noTopPadding">
+			<h2>Projects</h2>
+			<h4>Hack RPI Scoreboard</h4>
+			<h5 class="moveRightDate">September 2023 – December 2023</h5>
+			<ul class="jobs">
+					<li>Collaborated with team members to develop a dashboard utilizing React.js for 
+						the 2023 hackathon, which displayed a home, prize tracks, and a top Hacks page.</li>
+					<li>Assisted with the website’s CSS, along with the development of the working navigation 
+						bar and prize tracks page.</li>
+			</ul>
+			<h4>Best Indicator of Body Fat</h4>
+			<h5 class="moveRightDate">May 2023</h5>
+			<ul class="jobs">
+				<li>To predict which of the 13 measured body part(s) best predict body fat percentage 
+					of males using regression models in Python.</li>
+				<li>Worked with a classmate to apply regression models to a dataset of 252 men from 
+					lib.stat.cmu.</li>
+				<li>Learned how to apply Lasso Regression and Simple Linear Regression (SLR).</li>
+			</ul>
+			<h4>StarFighter Game</h4>
+			<h5 class="moveRightDate">May 2022</h5>
+			<ul class="jobs">
+					<li>To create a Star Fighter Game in Java.</li>
+					<li>Added collisions, powerups, levels, a title screen, and more.</li>
+					<li>Deepened my knowledge in Java: importing custom characters/images, changing RGB 
+						values of pixels, finding pixel locations.</li>
+			</ul>
+			<h4>Number Guessing Game</h4>
+			<h5 class="moveRightDate">December 2021</h5>
+			<ul class="jobs">
+				<li>Developed a number guessing game website utilizing HTML, CSS, and JavaScript.</li>
+				<li>Implemented 3 difficulty levels, hover animations, top 3 quickest guesses, real-time
+					“hot” and “cold” feedback, and more.</li>
+			</ul>		
+		</div>
+	
+		<div class="noTopPadding">
+			<h2>Experience</h2>
+			<h4>Computer Science Instructor</h4>
+			<h5 class="moveRightDate">July 2022</h5>
+			<ul class="jobs">
+				<li>Led 1 lesson a week for 4 weeks teaching the fundamentals of Java in preparation 
+					for AP CSA (Computer Science A).</li>
+				<li>Developed a slideshow for the 4 topics I taught. Each with 1 to 2 practice 
+					problems to keep student engagement.</li>
+				<li>Developed 4 coding assignments and 1 final project to strengthen student’s 
+					understanding, all with answer keys.</li>
+			</ul>
+			<h4>Mathematics Instructor</h4>
+			<h5 class="moveRightDate">Fall 2020 – Spring 2021</h5>
+			<ul class="jobs">
+				<li>Taught a student with disabilities over 9 months to aid in understanding in addition and subtraction.</li>
+				<li>Provided assistance with school-related math assignments.</li>
+			</ul>
+		</div>
+	</div>
+</body>
+
+</html>
