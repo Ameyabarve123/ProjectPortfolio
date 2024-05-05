@@ -25,8 +25,8 @@ Ameya Barve - Mary Cotrupi - Quinn Colognato
 files: pagesFolder, projectDocuments, and resources, along with the 2 files index.html and README.md.
 2. Using Github Desktop, open your iit repository in VSCode (or prefered IDE). Inside your iit folder, create a new folder and drag and drop the 3 folders and 2 files into it. 
 3. Navigate to pagesFolder, then resources, databases, and finally into sqlLoginInfo.php. Here, enter your phpadmin account username and password.
-4. Start your Azure instance and navigate to "<YOUR FQDN>/iit/phpmyadmin".
-5. Create a new database called team7.
+4. Start your VM, or run this code on your local web server environment, such as XAMPP.
+5. Create a new database in phpmyadmin directory called team7.
 6. Inside the team7 database, click import. Import the users.sql file within resources/databases.
 7. Finally, in your iit website, make sure you have a link somewhere that allows users to navigate to the index.html (home page) of this website.
 
