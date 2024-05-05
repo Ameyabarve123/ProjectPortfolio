@@ -22,14 +22,15 @@ Ameya Barve - Mary Cotrupi - Quinn Colognato
 
 ## Instructions
 1. Download and unzip the repository into a folder on your computer. Navigate until you see 3 folders and 2 
-files: pagesFolder, projectDocuments, and resources, along with the 2 files index.html and README.md.
-2. Using Github Desktop, open your iit repository in VSCode (or prefered IDE). Inside your iit folder, create a new folder and drag and drop the 3 folders and 2 files into it. 
-3. Navigate to pagesFolder, then resources, databases, and finally into sqlLoginInfo.php. Here, enter your phpadmin account username and password.
-4. Start your Azure instance and navigate to "<YOUR FQDN>/iit/phpmyadmin".
-5. Create a new database called team7.
-6. Inside the team7 database, click import. Import the users.sql file within resources/databases.
-7. Finally, in your iit website, make sure you have a link somewhere that allows users to navigate to the index.html (home page) of this website.
+   files: pagesFolder, projectDocuments, and resources, along with the 2 files index.html and README.md.
+2. Using Github Desktop, open your prefered repository in VSCode (or prefered IDE). Create a new folder and drag and drop 
+   the folders and files from step 1, into this new folder. 
+3. Navigate to labs/teamPage/resources/databases/sqlLoginInfo.php. Here, enter your phpmyadmin account username and password.
+4. Navigate to labs/teamPage/resources. From here, download users.sql.
+5. Start your virtual machine, and navigate to "/phpmyadmin". If using localhost, the link will be "localhost/phpmyadmin".
+6. Create a new database called team7.
+7. Inside the team7 database, click import, and import the users.sql file
 
-Quick Note: If you are using a touch screen computer, when swiping on tutors, make sure to swipe up and right using the touchscreen. If your computer is not touch screen, then use your mouse/trackpad to swipe the cards. 
+Quick Note: If you are using a touch screen computer, when swiping on tutors, make sure to swipe up and right using the touchscreen. If your computer is not touch screen, then use your mouse/trackpad to swipe the cards.
 
 Thank you for choosing MentorMatch - where students meet success! 🚀
