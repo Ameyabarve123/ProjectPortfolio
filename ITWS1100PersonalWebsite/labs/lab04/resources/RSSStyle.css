@@ -1,0 +1,39 @@
+* {
+  display: block;
+  background-color: #CED1DA;
+  color: black;
+}
+
+channel{
+  font-size: 1.3em;
+}
+
+title{
+  width:100%;
+  font-size: 2em;
+}
+
+link{
+  text-decoration: underline;
+  font-style: italic;
+
+}
+
+item {
+  padding:1em 1em 1em 0.5em;
+  margin:1em 1em 1em 1em;
+  border-style: solid;
+  border-color: black;
+}
+
+channel > title{
+  margin:0.5em 1em 0em 0.53em;
+}
+
+channel > link{
+  margin:0em 1em 0em 1em;
+}
+
+channel > description{
+  margin:0em 1em 1em 1em;
+}
