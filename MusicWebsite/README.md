@@ -1,6 +1,7 @@
 ## Purpose of Project
-
-
+The purpose of this website is to provide a seamless way for users to obtain lyrics to their
+favorite songs. Although many mainstream streaming services display song lyrics to their
+users, most applications do not offer the ability to download lyrics. 
 
 ## Starting Flask Server (IMPORTANT)
 cd into flaskServer folder.
