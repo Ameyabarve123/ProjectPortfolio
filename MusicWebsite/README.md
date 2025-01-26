@@ -15,6 +15,7 @@ The purpose of this website is to provide a seamless way for users to obtain lyr
 ## Flask Server
 * The Flask server handles backend operations, including file name sanitization, retrieving captions from YouTube videos, and serving them as downloadable files.
 
+# Starting Server
 ## Starting Flask Server (IMPORTANT)
 cd into flaskServer folder.
 write venv/Scripts/activate into terminal.
