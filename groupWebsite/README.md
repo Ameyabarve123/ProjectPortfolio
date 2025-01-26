@@ -8,10 +8,10 @@ Nexus@RPI is a comprehensive resource hub designed to help RPI students seamless
 * * Displays the user’s current location alongside the club’s meeting location, providing insights into the distance between them. 
 
 * **Discussion Forum:** 
-* * A collaborative space for students to share ideas, ask questions, and engage with peers.
-* * Students can create new discussion forums for study groups or contribute to pre-existing forums linked to specific professors and classes.
-* * Pre-existing forums are dynamically updated with information about currently taught classes and their professors.
-* * Public discussion forums are searchable via a search bar, while private forums can be joined using a "Group Access Code" in the "My Study Groups" section.
+  * A collaborative space for students to share ideas, ask questions, and engage with peers.
+  * Students can create new discussion forums for study groups or contribute to pre-existing forums linked to specific professors and classes.
+  * Pre-existing forums are dynamically updated with information about currently taught classes and their professors.
+  * Public discussion forums are searchable via a search bar, while private forums can be joined using a "Group Access Code" in the "My Study Groups" section.
 
 * **Professor Picker:** 
 * * A feature allowing students to rate professors for the classes they are teaching.
