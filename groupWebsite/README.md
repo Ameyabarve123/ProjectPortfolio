@@ -37,3 +37,13 @@ Nexus@RPI is a comprehensive resource hub designed to help RPI students seamless
 * Utilized the Here Maps API to display the user’s current location and the selected club’s meeting location.
 * Built PHP scripts to interact with the MySQL database for data retrieval and updates.
 * Included dedicated PHP scripts to reset specific database tables, such as club and teacher data, ensuring recovery of initial data in case of accidental deletion.
+
+## Additional Information
+* Deployed the website using **Microsoft Azure**, ensuring reliable hosting and seamless accessibility.
+* Followed the **Scrum methodology** throughout the development process, promoting efficient teamwork and timely project completion.
+
+
+
+
+
+

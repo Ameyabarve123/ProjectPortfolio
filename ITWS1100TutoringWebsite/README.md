@@ -18,3 +18,6 @@ With MentorMatch, finding the right tutor is as easy as a swipe! Here's how:
   * When a user swipes right on a tutor, the tutor's data is stored in the database and linked to the user.
   * Matched tutors are displayed in the user's profile for easy access.
   * Users' preferences are securely saved in the database, ensuring a tailored matching experience.
+
+## Additional Information
+* Deployed the website using **Microsoft Azure**, ensuring reliable hosting and seamless accessibility.
