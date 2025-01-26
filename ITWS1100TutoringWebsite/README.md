@@ -15,6 +15,6 @@ With MentorMatch, finding the right tutor is as easy as a swipe! Here's how:
 ## Backend
 * Built with PHP to manage server-side operations and communicate with the MySQL database.
 * Key functionalities:
-* * When a user swipes right on a tutor, the tutor's data is stored in the database and linked to the user.
-* * Matched tutors are displayed in the user's profile for easy access.
-* * Users' preferences are securely saved in the database, ensuring a tailored matching experience.
+  * When a user swipes right on a tutor, the tutor's data is stored in the database and linked to the user.
+  * Matched tutors are displayed in the user's profile for easy access.
+  * Users' preferences are securely saved in the database, ensuring a tailored matching experience.

@@ -1,11 +1,11 @@
 # About Nexus@RPI
 Nexus@RPI is a comprehensive resource hub designed to help RPI students seamlessly navigate college life. The website offers an array of features aimed at enhancing student engagement and simplifying access to resources:
 * **Event Hub:** 
-* * An organized tool for managing and promoting campus events.
-* * Users can browse a list of various clubs at Rensselaer Polytechnic Institute. Clicking on a club displays a short description.
-* * With Google Calendar integration, users can add a club's meeting time directly to their calendar.
-* * Users can request the addition of new clubs, which will be reviewed by website administrators.
-* * Displays the user’s current location alongside the club’s meeting location, providing insights into the distance between them. 
+  * An organized tool for managing and promoting campus events.
+  * Users can browse a list of various clubs at Rensselaer Polytechnic Institute. Clicking on a club displays a short description.
+  * With Google Calendar integration, users can add a club's meeting time directly to their calendar.
+  * Users can request the addition of new clubs, which will be reviewed by website administrators.
+  * Displays the user’s current location alongside the club’s meeting location, providing insights into the distance between them. 
 
 * **Discussion Forum:** 
   * A collaborative space for students to share ideas, ask questions, and engage with peers.
@@ -14,18 +14,18 @@ Nexus@RPI is a comprehensive resource hub designed to help RPI students seamless
   * Public discussion forums are searchable via a search bar, while private forums can be joined using a "Group Access Code" in the "My Study Groups" section.
 
 * **Professor Picker:** 
-* * A feature allowing students to rate professors for the classes they are teaching.
-* * The main page displays all departments at Rensselaer Polytechnic Institute. Clicking on a department reveals the courses offered, along with their respective professors.
-* * Users can provide feedback and ratings for professors based on their teaching performance in specific classes.
+  * A feature allowing students to rate professors for the classes they are teaching.
+  * The main page displays all departments at Rensselaer Polytechnic Institute. Clicking on a department reveals the courses offered, along with their respective professors.
+  * Users can provide feedback and ratings for professors based on their teaching performance in specific classes.
 
 * **Mental Health Resources:** 
-* * Provides easy access to academic, social, and administrative resources to support student well-being.
-* * Users can recommend new resources, which are subject to administrator approval.
+  * Provides easy access to academic, social, and administrative resources to support student well-being.
+  * Users can recommend new resources, which are subject to administrator approval.
 
 * **Admin Tools:**
-* * Administrators can approve user-recommended additions of clubs and mental health resources.
-* * Manage content by deleting user comments, ratings on the Professor Picker page, and discussion posts in forums.
-* * Admins can also remove clubs and resources from the Event Hub and Mental Health Resources pages.
+  * Administrators can approve user-recommended additions of clubs and mental health resources.
+  * Manage content by deleting user comments, ratings on the Professor Picker page, and discussion posts in forums.
+  * Admins can also remove clubs and resources from the Event Hub and Mental Health Resources pages.
 
 # Technologies
 ## Frontend
