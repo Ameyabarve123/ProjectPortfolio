@@ -1,5 +1,5 @@
-# About Nexus@RPI
-Nexus@RPI is a comprehensive resource hub designed to help RPI students seamlessly navigate college life. The website offers an array of features aimed at enhancing student engagement and simplifying access to resources:
+# About RPI Resource Hub
+RPI Resource Hub is a comprehensive resource hub designed to help RPI students seamlessly navigate college life. The website offers an array of features aimed at enhancing student engagement and simplifying access to resources:
 * **Event Hub:** 
   * An organized tool for managing and promoting campus events.
   * Users can browse a list of various clubs at Rensselaer Polytechnic Institute. Clicking on a club displays a short description.
