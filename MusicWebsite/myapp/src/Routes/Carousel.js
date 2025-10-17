@@ -80,7 +80,7 @@ const Carousel = () => {
         setDownloading(false);
       });
     }else{
-      console.log("LOSETER")
+      console.log("Error in Carousel handleSubmit")
     }
   };
 

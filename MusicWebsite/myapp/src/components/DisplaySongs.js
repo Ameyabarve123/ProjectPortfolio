@@ -47,7 +47,6 @@ const DisplaySongs = (props) => {
       console.log(response);
     })
     .catch(function(error){
-      console.log("YO");
       console.log(window.localStorage.getItem("yt_token"))
       console.log(error.response.data);
     });
